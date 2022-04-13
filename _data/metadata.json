@@ -1,0 +1,21 @@
+{
+  "title": "Bits & Rants",
+  "url": "https://chrislemos.net/",
+  "language": "en",
+  "description": "I am writing.",
+  "feed": {
+    "subtitle": "I am writing.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://chrislemos.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://chrislemos.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Christian Lemos",
+    "email": "lemoscvbl at gmail dot com",
+    "url": "https://chrislemos.com/about-me/"
+  }
+}
