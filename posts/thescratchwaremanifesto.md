@@ -15,25 +15,25 @@ Written in 2000, it felt depressive to read it and realize that most (if not all
 
 Just to show how much the text applies to modern games, take a look at some of what the manifesto has to say, and how it compares to recent events:
 
-    We reject crunch time.
-
-    It is anathema to the principles of quality for which we strive. Nobody EVER does their best work at the end of a 12-hour day. And if you're not doing good work, then what the hell are you doing? Go home. Sleep. Play with your kids. Mow the lawn. Watch some television. Then, when you have some creative energy to give, come work.
-
-    We will declare a game done when it IS done, not when marketing says it has to be done. If it's not done, it will suck. If it sucks, then no one will want to buy it (or even download it for free) and no one will pay attention when we release the next one.
+>We reject crunch time.
+>
+>It is anathema to the principles of quality for which we strive. Nobody EVER does their best work at the end of a 12-hour day. And if you're not doing good work, then what the hell are you doing? Go home. Sleep. Play with your kids. Mow the lawn. Watch some television. Then, when you have some creative energy to give, come work.
+>
+>We will declare a game done when it IS done, not when marketing says it has to be done. If it's not done, it will suck. If it sucks, then no one will want to buy it (or even download it for free) and no one will pay attention when we release the next one.
 
 [Certainly people would've learned that crunch times are a terrible idea and, honestly, a crime against everyone who has to endure the work, right?](https://www.theverge.com/2020/9/29/21494499/cyberpunk-2077-development-crunch-time-cd-projekt-red)
 
 And what about this?
 
-    When millions are at stake, the publishers become terrified. Each executive knows that greenlighting something offbeat that fails will lose him his job. So they greenlight the same old crap, imitations of what's on the list this month, simply to cover their own quivering asses. No one will fire them for going with the tried and true.
+>When millions are at stake, the publishers become terrified. Each executive knows that greenlighting something offbeat that fails will lose him his job. So they greenlight the same old crap, imitations of what's on the list this month, simply to cover their own quivering asses. No one will fire them for going with the tried and true.
 
 Oh, yeah, [right](https://en.wikipedia.org/wiki/Call_of_Duty).
 
 More interesting than that, is to see how the predictions from the text unfolded over the years.
 
-For instance, there is a moment whe the manifesto talks about Linux and its part in the gaming industry:
+For instance, there is a moment when the manifesto talks about Linux and its part in the gaming industry:
 
-    LINUX is deadly to vampires, because it works directly against one of their main sources of control - copyright of software. Without that, the cattle can slip out of the pasture, grow horns, and do all sorts of dangerous things. The whole open-source movement draws many people who are tired of the way the corporations do things.
+>LINUX is deadly to vampires, because it works directly against one of their main sources of control - copyright of software. Without that, the cattle can slip out of the pasture, grow horns, and do all sorts of dangerous things. The whole open-source movement draws many people who are tired of the way the corporations do things.
 
 Note: Vampires are the big, bad an ugly companies.
 
@@ -43,9 +43,9 @@ To quote a Reddit comment I saw a while ago, Linux will have its space when peop
 
 Another thing the manifesto talks about is the platform through which games should be distributed:
 
-    Games are not bought in the mega-stores, but off the Internet or from your local independent game-download outlet. Games do not all cost 50 bucks - some cost 30, others 10, some are free for the first chapter and then 50 cents per chapter download.
+>Games are not bought in the mega-stores, but off the Internet or from your local independent game-download outlet. Games do not all cost 50 bucks - some cost 30, others 10, some are free for the first chapter and then 50 cents per chapter download.
 
-This is in fact our current reality. Take a look at Steam, Epic, EA and Game Pass for instance. But, the **local independent** is still missing from the bigger equation - except for [Itch.io](https://itch.io/docs/general/faq), you're cool. And don't forget about the cuts these platforms take from the original developers of the game.
+This is in fact our current reality. Take a look at Steam, Epic, EA and Game Pass. But the **local independent** is missing from the bigger equation - except for [Itch.io](https://itch.io/docs/general/faq), you're cool. And don't forget about the cuts these platforms take from the original developers of the game.
 
 Anyway, I don't have much to say. The Manifesto speaks by itself. Support indepentent developers, buy from them directly and create or modify games too, it keeps the doctors away.
 

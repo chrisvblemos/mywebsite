@@ -91,8 +91,8 @@ code {
 }
 
 .content {
-  max-width: 800px;
-  margin: auto;
+  max-width: 1920px;
+  /* margin: auto; */
 }
 
 /* Header */
@@ -226,6 +226,7 @@ a[href].direct-link:focus:visited,
   color: #aaa;
 }
 
+/* Fun */
 .crazy-font:hover {
   text-shadow: 0.2rem 0.2rem var(--blue), 0.4rem 0.4rem var(--gray);
 }
@@ -233,6 +234,7 @@ a[href].direct-link:focus:visited,
   transition: text-shadow 0.2s ease-in-out;
 }
 
+/* Cards */
 .card {
   /* Add shadows to create the "card" effect */
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -249,6 +251,7 @@ a[href].direct-link:focus:visited,
   padding: 20px 16px;
 }
 
+/* Contact Table */
 .styled-table {
   border-collapse: collapse;
   margin: 25px 0;
@@ -286,14 +289,18 @@ a[href].direct-link:focus:visited,
   color: var(--orange);
 }
 
-footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
+.wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: calc(800px - (30px * 2));
 }
 
-.footer {
-  margin: auto;
-  width: 600px;
+/* Footer */
+footer {
+  position: fixed;
+  bottom: 0;
+  padding-left: 75%;
+  width: 100%;
+  height: 2.5rem;
   text-align:center;
 }
